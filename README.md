@@ -1,5 +1,15 @@
 # 👋 Hi, I'm Trey  
- - 💻 I'm a sophomore CS student at Clemson University <br><br>- 💵 Founded Clemson FinTech, building innovative software with CS and Finance students <br><br>- 🔬 Researching optimal algorithms for training robotic deep neural networks <br><br>- 🎙️ I hold many different leadership positions on campus with an emphasis on professional collaboration<br><br>- 🩻 Fun Fact: I used to travel across the country as an ultrasound model, helping doctors learn about ultrasound technology<br><br>- 📬 Contact me at prlarki@clemson.edu
+ - 💻 I'm a sophomore CS student at Clemson University 
+ 
+ - 💵 Founded Clemson FinTech, building innovative software with CS and Finance students 
+ 
+ - 🔬 Researching optimal algorithms for training robotic deep neural networks 
+ 
+ - 🎙️ I hold many different leadership positions on campus with an emphasis on professional collaboration
+ 
+ - 🩻 Fun Fact: I used to travel across the country as an ultrasound model, helping doctors learn about ultrasound technology
+ 
+ - 📬 Contact me at prlarki@clemson.edu
 
 
 # 🌐 Socials:
