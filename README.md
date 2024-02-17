@@ -5,7 +5,7 @@
  
  - 🔬 Researching optimal algorithms for training robotic deep neural networks 
  
- - 🎙️ I hold many different leadership positions on campus with an emphasis on professional collaboration
+ - 🎙️ I'm involved in a plethora of leadership roles on campus
  
  - 🩻 Fun Fact: I used to travel across the country as an ultrasound model, helping doctors learn about ultrasound technology
  
