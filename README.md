@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Trey  
- - 💻 I'm a sophomore CS student at Clemson University 
+ - 💻 I'm a rising Junior CS student at Clemson University 
+
+ - 🔬 Interning at QGenda, a cloud-based healthcare workforce management platform 
  
- - 💵 Founded Clemson FinTech, building innovative software with CS and Finance students 
- 
- - 🔬 Researching optimal algorithms for training robotic deep neural networks 
+ - 💵 Founded Clemson FinTech, building start-ups with CS and Finance students 
  
  - 🎙️ I'm involved in a plethora of leadership roles on campus
  
